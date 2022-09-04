@@ -1,0 +1,20 @@
+body{
+    background-color: #f3f3f1;
+}
+
+.form-container{
+    margin-top:50px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 6px;
+    width:40%;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+.form-group{
+    padding:5px;
+}
